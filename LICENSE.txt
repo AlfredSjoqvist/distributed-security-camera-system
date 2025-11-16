@@ -1,0 +1,6 @@
+All Rights Reserved.
+
+This repository contains only non-confidential, high-level descriptions of a research project conducted under NDA.
+No proprietary source code or internal implementation details are included.
+
+No part of this repository may be copied, modified, published, distributed, or used without explicit written permission from the author.
