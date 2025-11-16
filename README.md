@@ -1,4 +1,4 @@
-# Secure Real Time Vision Systems Research Project
+# EagleEye - A Distributed Security Camera System
 
 This repository contains the public article for my bachelor thesis, completed in collaboration with Axis Communications. The project investigates how metadata from multiple network cameras can be processed and visualized in real time while maintaining strong security and privacy principles. All implementation details are excluded due to NDA requirements.
 
